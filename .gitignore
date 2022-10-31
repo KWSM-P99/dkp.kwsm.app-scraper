@@ -1,0 +1,4 @@
+.env
+daily-cache/
+backup/
+old-data/
